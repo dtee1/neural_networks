@@ -9,7 +9,7 @@ This repo contains all my work while learning neural networks
 <p> During training, the calculated error (target-desired) is backpropagated using the relation:</p>
 <p align="center">&#x3B4;E/&#x3B4;W<sub>jk</sub> = -(t<sub>k</sub> - O<sub>k</sub>) &#x2022; sigmoid(&#8721;<sub>j</sub>W<sub>jk</sub> &#x2022; O<sub>j</sub>)(1-sigmoid(&#8721;<sub>j</sub>W<sub>jk</sub> &#x2022; O<sub>j</sub>) &#x2022; O<sub>j</sub></p>
 <h4>Block Diagram of Neural Network</h4>
-<img>![image](https://user-images.githubusercontent.com/37641675/233109362-93c8738c-55b0-4497-8127-202af5885720.png)</img>
+![image](https://user-images.githubusercontent.com/37641675/233109362-93c8738c-55b0-4497-8127-202af5885720.png)
 
 <h4>Requirements</h4>
 <li>numpy</li>
