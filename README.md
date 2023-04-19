@@ -10,7 +10,7 @@ This repo contains all my work while learning neural networks
 <p align="center">&#x3B4;E/&#x3B4;W<sub>jk</sub> = -(t<sub>k</sub> - O<sub>k</sub>) &#x2022; sigmoid(&#8721;<sub>j</sub>W<sub>jk</sub> &#x2022; O<sub>j</sub>)(1-sigmoid(&#8721;<sub>j</sub>W<sub>jk</sub> &#x2022; O<sub>j</sub>) &#x2022; O<sub>j</sub></p>
 <h4>Block Diagram of Neural Network</h4>
   
-![image](https://user-images.githubusercontent.com/37641675/233114269-dd509e99-eb30-48b1-936b-05e4fb8ee910.png)
+![image](https://user-images.githubusercontent.com/37641675/233166878-8ef3d47f-2c27-4944-b58d-9a0f9321976e.png)
 
 <h4>Requirements</h4>
 <li>numpy</li>
