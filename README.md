@@ -19,6 +19,7 @@ This repo contains all my work while learning neural networks
 <h4>Usage</h4> 
 <li>Clone the repo</li>
 <li>Run the requirements.txt file using the command: pip install -r requirements.txt</li>
+<li><strong>You can download the enitre MNIST Digits train dataset is csv format</strong></li>
 <li>Run the basic_nn.py file with a path to the folder containing the number to be identified</li>
 <li>This will train with the digits dataset provided and identify the numbers using the default parameters. To customize the parameters, run the basic_nn.py with the arguments: --hidden-nodes=xxx --learning-rate=xxx --epochs=xxx</li>
 <li>This will run and show the predicted values of the input</li>
