@@ -3,7 +3,7 @@ This repo contains all my work while learning neural networks
 
 <h1>Files:</h1>
 <details><summary><h2>basic_nn.py</h2></summary>
-<p> This is a basic neural network with 3 hidden layers. It uses backpropagation to update the weights and sigmoid activation as a threshold function</p>
+<p> This is a basic neural network with 1 hidden layer. It uses backpropagation to update the weights and sigmoid activation as a threshold function</p>
 <p>The weights are initialized randomly using the relation: </p>
 <p align="center">-1/sqrt(number_of_nodes) to 1/sqrt(number_of_nodes)</p>
 <p> During training, the calculated error (target-desired) is backpropagated using the relation:</p>
@@ -20,6 +20,6 @@ This repo contains all my work while learning neural networks
 <li>Clone the repo</li>
 <li>Run the requirements.txt file using the command: pip install -r requirements.txt</li>
 <li>Run the basic_nn.py file with a path to the folder containing the number to be identified</li>
-<li>This will train with the digits dataset provided and identify the numbers using the default parameters. To customize the parameters, run the basic_nn.py with the arguments: num_hidden_layers=xxx num_hidden_nodes=xxx learning_rate=xxx epochs=xxx</li>
+<li>This will train with the digits dataset provided and identify the numbers using the default parameters. To customize the parameters, run the basic_nn.py with the arguments: num_hidden_nodes=xxx learning_rate=xxx epochs=xxx</li>
 <li> This will run and show the predicted values of the input</li>
 </details>
