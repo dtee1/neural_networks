@@ -22,7 +22,6 @@ This repo contains all my work while learning neural networks
 <li>Run the basic_nn.py file with a path to the folder containing the number to be identified</li>
 <li>This will train with the digits dataset provided and identify the numbers using the default parameters. To customize the parameters, run the basic_nn.py with the arguments: --hidden-nodes=xxx --learning-rate=xxx --epochs=xxx</li>
 <li>This will run and show the predicted values of the input</li>
-</details>
 
 <h4>Suggested Improvements</h4> 
 <li>Add more hidden layers: This has to be done with caution however as it could lead to overfitting and vanishing gradients</li>
@@ -31,3 +30,4 @@ This repo contains all my work while learning neural networks
 
 <h4>Conclusion</h4>
 <p>I am open to suggestions and improvements</p>
+ </details>
